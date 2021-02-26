@@ -58,3 +58,7 @@ I'm also using [Joel Race Timing](http://joel-real-timing.com/) (JRT) for the tr
 ![](img/sample_track_map.png)
 
 In the above, **C** is the current focused car, as represented by **A** on the trackmap. **B** is the stopped car from exhibit A above.  To switch from this view, to the view show in exhibit A at the top (coming down the mountain) I simply hit `*8 <enter>`.
+
+### References
+
+iRacing *[iRacing Camera Tool](https://support.iracing.com/support/solutions/articles/31000157467-iracing-camera-tool)*
