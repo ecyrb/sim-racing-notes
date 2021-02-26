@@ -1,6 +1,21 @@
 # Thoughts on Spotting and Cameras for iRacing's Bathurst 12HR
 
+A motivating example:
+
 ![](img/motivating_example.png)
+
+The #16 BMW is coming down the mountain.
+
+The #8 Ferrari is not.
+
+Cockpit view from the #16: ![](img/cockpit_view.png)
+
+Chopper view: ![](img/chopper_view.png)
+
+
+
+
+
 
 ![](img/large_capture_test.png)
 
