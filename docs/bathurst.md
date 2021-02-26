@@ -22,7 +22,7 @@ Another assumption I made is that the driver has some other spotter (e.g. CrewCh
 
 #### 1. You should **clearly** be able to see 5 seconds **ahead** of the *spotted car* at all times.
 
-I hope this one is obvious. If not, please see exhibit A: A BMW is coming down the mountain, but a Ferrari (#8) is in the way:\
+I hope this one is obvious. If not, please see exhibit X: A BMW is coming down the mountain, but a Ferrari (#8) is in the way:\
 ![](img/motivating_example.png)
 
 Seeing *5 seconds ahead* means that we have to leave our current shot *at least* 5 seconds before the spotted car would leave the shot. All else being equal, this means you need more cameras: every two consecutive shots contains 5-seconds of overlapping track "distance". AdvSpot is made up of 24 different cameras (shots): for a 2:06 lap, you spend 5.25 seconds at each camera.
@@ -33,7 +33,7 @@ It's boring to spectate a race and not watch the car you're cheering for. Always
 
 #### 3. Static shots of the track are preferred.
 
-Static cameras don't move, so you're less likely to become confused about which direction you're facing. And you can set the camera up so that your view isn't obscured. See also exhibit B: The chopper view of the BMW coming down the mountain:\
+Static cameras don't move, so you're less likely to become confused about which direction you're facing. And you can set the camera up so that your view isn't obscured. See also exhibit Y: The chopper view of the BMW coming down the mountain:\
 ![](img/chopper_view.png)
 
 Unfortunately, trees, walls, bridges, and long straightaways make achieving this goal difficult; I cheated and used a few chase cams on straightaways.
@@ -65,7 +65,7 @@ I'm using [Joel Real Timing](http://joel-real-timing.com/) (JRT) for the track m
 
 ![](img/sample_track_map.png)
 
-In the above, **C** is the current focused car, as represented by **A** on the JRT overlay. **B** is the stopped car from exhibit A above (#16 is the BMW "coming down the mountain").  To switch from this view, to the view shown in exhibit A at the top (coming down the mountain) I simply pressed `*8 <enter>`, and my focus was changed to the #8 Ferrari. (The white and yellow circles highlighting the focused car and slow car are configurable features of JRT.) And to answer the obvious question: Yes, I do use an overlay that covers most of my screen, and I like it that way.
+In the above, **C** is the current focused car, as represented by **A** on the JRT overlay. **B** is the stopped car from exhibit A above (#16 is the BMW "coming down the mountain").  To switch from this view, to the view shown in exhibit X in the first image at the top, I simply pressed `*8 <enter>`, and my focus was changed to the #8 Ferrari. (The white and yellow circles highlighting the focused car and slow car are configurable features of JRT.) And to answer the obvious question: Yes, I do use an overlay that covers most of my screen, and I like it that way.
 
 ### References
 
