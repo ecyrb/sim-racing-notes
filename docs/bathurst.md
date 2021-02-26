@@ -5,7 +5,7 @@ title: null
 
 # A Camera Down the Mountain
 
-tl;dr: I put together a camera group [1] for spotting iRacing's *Bathurst 12HR*. You can download it [here](bathurst_advspot_v2.cam). Directions for use are below. The name of the camera group is **AdvSpot** (short for "advance spotter").
+tl;dr: I put together a camera group [1] for spotting iRacing's *Bathurst 12HR*. You can download it [here](bathurst_advspot_v2.cam). Directions for use are below. The name of the camera group is **AdvSpot** (short for "advance spotter"). If you really don't care about anything other than pictures of cool overlays, scroll to the bottom.
 
 [1] A *camera group* is any arbitrary set of camera shots in iRacing. E.g. *TV1* is a camera group: when you watch TV1, the camera shot will change to different individual cameras in the TV1 group.
 
