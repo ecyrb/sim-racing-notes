@@ -11,7 +11,7 @@ tl;dr: I put together a camera group [1] for spotting iRacing's *Bathurst 12HR*.
 
 I applied the following philosophy to create the AdvSpot camera group:
 
-1. You should **clearly** be able to see 5 seconds ahead of the *spotted car* at all times.
+1. You should **clearly** be able to see 5 seconds **ahead** of the *spotted car* at all times.
 2. You should be able to see the *spotted car* at all times.
 3. Static shots of the track are preferred.
 4. Your left should be the driver's left.
@@ -20,7 +20,7 @@ I was not able to always apply these rules, but I did apply them in the above pr
 
 Another assumption I made is that the driver has some other spotter (e.g. CrewChief) to notify them about immediate threats ("car left").
 
-#### 1. You should **clearly** be able to see 5 seconds ahead of the *spotted car* at all times.
+#### 1. You should **clearly** be able to see 5 seconds **ahead** of the *spotted car* at all times.
 
 I hope this one is obvious. If not, please see exhibit A: The BMW is coming down the mountain: ![](img/motivating_example.png)
 
