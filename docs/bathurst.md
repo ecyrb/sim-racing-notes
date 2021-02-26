@@ -1,6 +1,6 @@
 # Thoughts on Spotting and Cameras for iRacing's Bathurst 12HR
 
-tl;dr: I created a camera group [1] for spotting for the iRacing's *Bathurst 12HR*. You can download it [here](bathurst_advspot_v2.cam). Directions for use are below. The name of the camera group is **AdvSpot** (short for "advance spotter").
+tl;dr: I created a camera group [1] for spotting for iRacing's *Bathurst 12HR*. You can download it [here](bathurst_advspot_v2.cam). Directions for use are below. The name of the camera group is **AdvSpot** (short for "advance spotter").
 
 [1] A *camera group* is any arbitrary set of camera shots in iRacing. E.g. *TV1* is a camera group: when you watch TV1, the camera shot will change to different individual cameras in the TV1 group.
 
