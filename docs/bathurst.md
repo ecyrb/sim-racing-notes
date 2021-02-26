@@ -34,11 +34,11 @@ Unfortunately, trees, walls, bridges, and long straightaways make achieving this
 
 #### 4. Your view should be such that your left is the driver's left.
 
-So that if you do have to make a spotting call, you don't have to take the split-second to figure out which side a car is on. This means that cameras are placed to look *behind* the driver, in the direction of travel. Due to obscured sight-lines at Mount Panorama, this isn't always possible, so there are a few backwards-looking shots.
+When I'm looking *backwards* and need to tell the driver about something on *their left*, it takes my brain a split-second too long to flip my right to their left. This means that cameras are generally placed *behind* the driver, aiming down the direction of travel. Due to obscured sight-lines at Mount Panorama this isn't always possible, so there are a few backwards shots.
 
 ### Directions
 
-Put the downloaded .cam file in your `Documents\iRacing\cameras\tracks\bathurst` directory. When in the sim, bring up the camera controls (Ctrl + F12), and on the `group` tab, `load track`. `AdvSpot` should now show up in your list of cameras in the replay controls:
+Put the downloaded .cam file in your `Documents\iRacing\cameras\tracks\bathurst` directory. When in the sim, bring up the camera controls (Ctrl + F12), and on the `group` tab, `load track`, and select the `bathurst_advspot_v2.cam` file. `AdvSpot` should now show up in your list of cameras in the replay controls:
 
 ![](img/available_cams.png)
 
