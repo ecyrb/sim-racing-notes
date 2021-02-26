@@ -50,7 +50,7 @@ Put the downloaded .cam file in your `Documents\iRacing\cameras\tracks\bathurst`
 **Note these buttons on the group editor control:**\
 ![](img/group_editor.png)
 
-The circled buttons can be used to move the camera group up or down in the list of cameras. **A camera's position is its number.** Also note that you cannot change the position (or number) of the first 9 cameras. A camera's number is used in the shortcut controls [^1]:
+The circled buttons can be used to move the camera group up or down in the list of cameras. **A camera's position in the camera list is its number.** Also note that you cannot change the position (or number) of the first 9 cameras (The *Nose* camera is always *camera 1*). A camera's number is used in the shortcut controls [^1]:
 
 `*[car number]*[camera number] <enter>`: Focus specified camera on specified car.\
 `*[car number] <enter>`: Focus current camera on specified car.\
