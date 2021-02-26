@@ -15,23 +15,23 @@ I was not able to always apply these rules, but I did apply them in the above pr
 
 Another assumption I made is that the driver has some other spotter (e.g. CrewChief) to notify them about immediate threats ("car left").
 
-### 1. You should **clearly** see 5 seconds ahead of the *spotted car* at all times.
+#### 1. You should **clearly** see 5 seconds ahead of the *spotted car* at all times.
 
 I hope this one is obvious. If not, please see exhibit A: The case of the BMW coming down the mountain: ![](img/motivating_example.png)
 
-This means that you "jump" to the next shot *at least* 5 seconds before the spotted car would leave the frame. Combined with #2, this means that you need more shots than you would, if you could follow a car to the end of the in-frame track segment.
+Seeing "5 seconds" of ahead means that we have to leave the shot *at least* 5 seconds before the spotted car. Combined with #2 and #3, this has the effect of needing more camera shots. AdvSpot is made up of 24 different cameras (shots), so for a 2:06 lap, you average 5.25 seconds on each camera.
 
-### 2. You should see the *spotted car* at all times.
+#### 2. You should see the *spotted car* at all times.
 
-Because it's boring to spectate a race and not watch the car you're cheering for. Also, you can perform traditional spotting ("car left") in a pinch, or give guidance on rejoiring the track.
+It's boring to spectate a race and not watch the car you're cheering for. Always having your car in frame also means that you can perform traditional spotting in a pinch ("car left"), or give guidance on track rejoins, etc.
 
-### 3. Static shots of the track are preferred.
+#### 3. Static shots of the track are preferred.
 
-Static cameras don't move, so you're less likely to become confused about which direction your facing, or having your view become obscured.
+Static cameras don't move, so you're less likely to become confused about which direction you're facing. And you can set the camera up so that your view isn't obscured. See also exhibit B: The chopper view of the BMW coming down the mountain: ![](img/chopper_view.png)
 
-Unfortunately, trees, walls, bridges, and long straightaways make this difficult to do in practice. I cheated, and used a few chase cams on straightaways.
+Unfortunately, trees, walls, bridges, and long straightaways make achieving this goal difficult; I cheated and used a few chase cams on straightaways.
 
-### 4. Your view should be such that your left is the driver's left.
+#### 4. Your view should be such that your left is the driver's left.
 
 So that if you do have to make a spotting call, you don't have to take the split-second to figure out which side a car is on.
 
