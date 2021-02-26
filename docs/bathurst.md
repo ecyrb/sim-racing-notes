@@ -46,7 +46,7 @@ When I'm looking *backwards* and need to tell the driver about something on *the
 
 *(I've never shared a camera file before, so I probably don't have this 100% right — let me know if it doesn't work for you.)*
 
-Put the downloaded [.cam file](bathurst_advspot_v2.cam) in your `Documents\iRacing\cameras\tracks\bathurst` directory. When in the sim, bring up the camera controls (Ctrl + F12), and on the `group` tab, `load track`, and select the `bathurst_advspot_v2.cam` file. `AdvSpot` should now show up in your list of cameras in the replay controls:
+Put the downloaded [.cam file](bathurst_advspot_v2.cam) in your `Documents\iRacing\cameras\tracks\bathurst` directory (if you haven't fiddled with cameras, you may need to create some of these directories). When in the sim, bring up the camera controls (Ctrl + F12), and on the `group` tab, `load track`, and select the `bathurst_advspot_v2.cam` file. `AdvSpot` should now show up in your list of cameras in the replay controls:
 
 ![](img/available_cams.png)
 
