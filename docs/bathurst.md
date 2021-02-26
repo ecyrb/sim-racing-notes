@@ -9,7 +9,7 @@ tl;dr: I put together a camera group [1] for spotting iRacing's *Bathurst 12HR*.
 
 [1] A *camera group* is any arbitrary set of camera shots in iRacing. E.g. *TV1* is a camera group: when you watch TV1, the camera shot will change to different individual cameras in the TV1 group.
 
-I applied the following philosophy to create this group:
+I applied the following philosophy to create the AdvSpot camera group:
 
 1. You should **clearly** see 5 seconds ahead of the *spotted car* at all times.
 2. You should see the *spotted car* at all times.
