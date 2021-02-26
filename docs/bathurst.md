@@ -58,7 +58,7 @@ The circled buttons can be used to move the camera group up or down in the list 
 
 I bump `AdvSpot` up to position 10 (`**10`), and also move the chase cams up to positions 11-13, so I can quickly flip to them.
 
-I'm also using [Joel Race Timing](http://joel-real-timing.com/) (JRT) for the track map overlay, so I can quickly navigate to problem areas:
+I'm also using [Joel Real Timing](http://joel-real-timing.com/) (JRT) for the track map overlay, so I can quickly navigate to problem areas:
 
 ![](img/sample_track_map.png)
 
