@@ -25,7 +25,7 @@ Another assumption I made is that the driver has some other spotter (e.g. CrewCh
 I hope this one is obvious. If not, please see exhibit X: A BMW is coming down the mountain, but a Ferrari (#8) is in the way:\
 ![](img/motivating_example.png)
 
-Seeing *5 seconds ahead* means that we have to leave our current shot *at least* 5 seconds before the spotted car would leave the shot. All else being equal, this means you need more cameras: every two consecutive shots contains 5-seconds of overlapping track "distance". AdvSpot is made up of 24 different cameras (shots): for a 2:06 lap, you spend 5.25 seconds at each camera.
+Seeing *5 seconds ahead* means that we have to leave our current shot *at least* 5 seconds before the spotted car would leave the shot. All else being equal, this means you need more cameras: every two consecutive shots contains 5-seconds of overlapping track "distance". AdvSpot is made up of 24 different cameras (shots): for a 2:06 lap, you spend (on average) 5.25 seconds at each camera.
 
 #### 2. You should be able to see the *spotted car* at all times.
 
