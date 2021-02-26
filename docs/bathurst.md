@@ -6,7 +6,7 @@ tl;dr: I created a camera group [1] for spotting for iRacing's *Bathurst 12HR*. 
 
 I applied the following philosophy to create this group:
 
-1. You should **clearly** 5 seconds ahead of the *spotted car* at all times.
+1. You should **clearly** see 5 seconds ahead of the *spotted car* at all times.
 2. You should see the *spotted car* at all times.
 3. Static shots of the track are preferred.
 4. Your view should be such that your left is the driver's left.
@@ -33,7 +33,7 @@ Unfortunately, trees, walls, bridges, and long straightaways make achieving this
 
 #### 4. Your view should be such that your left is the driver's left.
 
-So that if you do have to make a spotting call, you don't have to take the split-second to figure out which side a car is on.
+So that if you do have to make a spotting call, you don't have to take the split-second to figure out which side a car is on. This means that cameras are placed to look *behind* the driver, in the direction of travel. Due to obscured sight-lines at Mount Panorama, this isn't always possible, so there are a few backwards-looking shots.
 
 ### Directions
 
