@@ -17,7 +17,7 @@ Another assumption I made is that the driver has some other spotter (e.g. CrewCh
 
 #### 1. You should **clearly** see 5 seconds ahead of the *spotted car* at all times.
 
-I hope this one is obvious. If not, please see exhibit A: The case of the BMW coming down the mountain: ![](img/motivating_example.png)
+I hope this one is obvious. If not, please see exhibit A: The BMW is coming down the mountain: ![](img/motivating_example.png)
 
 Being able to see *5 seconds ahead* means that we have to leave the shot *at least* 5 seconds before the spotted car. Combined with #2 and #3, this has the effect of needing more camera shots. AdvSpot is made up of 24 different cameras (shots), so for a 2:06 lap, you average 5.25 seconds on each camera.
 
