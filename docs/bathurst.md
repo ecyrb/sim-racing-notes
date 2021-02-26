@@ -27,7 +27,8 @@ It's boring to spectate a race and not watch the car you're cheering for. Always
 
 #### 3. Static shots of the track are preferred.
 
-Static cameras don't move, so you're less likely to become confused about which direction you're facing. And you can set the camera up so that your view isn't obscured. See also exhibit B: The chopper view of the BMW coming down the mountain: ![](img/chopper_view.png)
+Static cameras don't move, so you're less likely to become confused about which direction you're facing. And you can set the camera up so that your view isn't obscured. See also exhibit B: The chopper view of the BMW coming down the mountain:\
+![](img/chopper_view.png)
 
 Unfortunately, trees, walls, bridges, and long straightaways make achieving this goal difficult; I cheated and used a few chase cams on straightaways.
 
@@ -41,14 +42,19 @@ Put the downloaded .cam file in your `Documents\iRacing\cameras\tracks\bathurst`
 
 ![](img/available_cams.png)
 
-**Note these buttons on the group editor control:** ![](img/group_editor.png)
+**Note these buttons on the group editor control:**\
+![](img/group_editor.png)
 
 The circled buttons can be used to move the camera group up or down in the list of cameras. **A camera's position is its number.** Also note that you cannot change the position (or number) of the first 9 cameras. A camera's number is used in the shortcut controls:
 
-`*[car number]*[camera number]<enter>`: Focus specified camera on specified car.\
-`*[car number]<enter>`: Focus current camera on specified car.\
-`**[camera number]`: Switch to specified camera, keeping focus on current car.
+`*[car number]*[camera number] <enter>`: Focus specified camera on specified car.\
+`*[car number] <enter>`: Focus current camera on specified car.\
+`**[camera number] <enter>`: Switch to specified camera, keeping focus on current car.
 
 I bump `AdvSpot` up to position 10 (`**10`), and also move the chase cams up to positions 11-13, so I can quickly flip to them.
 
-I'm also using [Joel Race Timing](http://joel-real-timing.com/).
+I'm also using [Joel Race Timing](http://joel-real-timing.com/) (JRT) for the track map overlay, so I can quickly navigate to problem areas:
+
+![](img/sample_track_map.png)
+
+In the above, **C** is the current focused car, as represented by **A** on the trackmap. **B** is the stopped car from exhibit A above.  To switch from this view, to the view show in exhibit A at the top (coming down the mountain) I simply hit `*8 <enter>`.
