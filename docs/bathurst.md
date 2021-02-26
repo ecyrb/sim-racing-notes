@@ -60,11 +60,11 @@ The circled buttons can be used to move the camera group up or down in the list 
 
 I bump `AdvSpot` up to position 10 (`**10 <enter>`), and move the chase cams up to positions 11-13, just so I know how to quickly access them.
 
-I using [Joel Real Timing](http://joel-real-timing.com/) (JRT) for the track map overlay, so I can quickly navigate to problem areas:
+I'm using [Joel Real Timing](http://joel-real-timing.com/) (JRT) for the track map overlay, so I can quickly navigate to problem areas:
 
 ![](img/sample_track_map.png)
 
-In the above, **C** is the current focused car, as represented by **A** on the JRT overlay. **B** is the stopped car from exhibit A above (#16 is the BMW "coming down the mountain").  To switch from this view, to the view shown in exhibit A at the top (coming down the mountain) I simply pressed `*8 <enter>`. (JRT highlights slow cars as a configurable option.)
+In the above, **C** is the current focused car, as represented by **A** on the JRT overlay. **B** is the stopped car from exhibit A above (#16 is the BMW "coming down the mountain").  To switch from this view, to the view shown in exhibit A at the top (coming down the mountain) I simply pressed `*8 <enter>`. (The white and yellow circles highlighting the focused car and slow car are configurable features of JRT.)
 
 ### References
 
