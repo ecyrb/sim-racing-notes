@@ -1,4 +1,4 @@
-# Thoughts on Spotting and Cameras for iRacing's Bathurst 12HR
+# A Camera for iRacing's Bathurst 12HR
 
 tl;dr: I created a camera group [1] for spotting for iRacing's *Bathurst 12HR*. You can download it [here](bathurst_advspot_v2.cam). Directions for use are below. The name of the camera group is **AdvSpot** (short for "advance spotter").
 
