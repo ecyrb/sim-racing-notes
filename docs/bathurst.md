@@ -22,7 +22,8 @@ Another assumption I made is that the driver has some other spotter (e.g. CrewCh
 
 #### 1. You should **clearly** be able to see 5 seconds **ahead** of the *spotted car* at all times.
 
-I hope this one is obvious. If not, please see exhibit A: A BMW is coming down the mountain: ![](img/motivating_example.png)
+I hope this one is obvious. If not, please see exhibit A: A BMW is coming down the mountain, but a Ferrari (#8) is in the way:\
+![](img/motivating_example.png)
 
 Seeing *5 seconds ahead* means that we have to leave our current shot *at least* 5 seconds before the spotted car would leave the shot. All else being equal, this means you need more cameras because every two consecutive shots contains 5-seconds of overlapping track "distance". AdvSpot is made up of 24 different cameras (shots): for a 2:06 lap, you spend 5.25 seconds at each camera.
 
@@ -64,7 +65,7 @@ I'm using [Joel Real Timing](http://joel-real-timing.com/) (JRT) for the track m
 
 ![](img/sample_track_map.png)
 
-In the above, **C** is the current focused car, as represented by **A** on the JRT overlay. **B** is the stopped car from exhibit A above (#16 is the BMW "coming down the mountain").  To switch from this view, to the view shown in exhibit A at the top (coming down the mountain) I simply pressed `*8 <enter>`. (The white and yellow circles highlighting the focused car and slow car are configurable features of JRT.)
+In the above, **C** is the current focused car, as represented by **A** on the JRT overlay. **B** is the stopped car from exhibit A above (#16 is the BMW "coming down the mountain").  To switch from this view, to the view shown in exhibit A at the top (coming down the mountain) I simply pressed `*8 <enter>`, and my focus was changed to the #8 Ferrari. (The white and yellow circles highlighting the focused car and slow car are configurable features of JRT.)
 
 ### References
 
