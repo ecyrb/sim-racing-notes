@@ -11,22 +11,22 @@ tl;dr: I put together a camera group [1] for spotting iRacing's *Bathurst 12HR*.
 
 I applied the following philosophy to create the AdvSpot camera group:
 
-1. You should **clearly** see 5 seconds ahead of the *spotted car* at all times.
-2. You should see the *spotted car* at all times.
+1. You should **clearly** be able to see 5 seconds ahead of the *spotted car* at all times.
+2. You should be able to see the *spotted car* at all times.
 3. Static shots of the track are preferred.
-4. Your view should be such that your left is the driver's left.
+4. Your left should be the driver's left.
 
 I was not able to always apply these rules, but I did apply them in the above priority.
 
 Another assumption I made is that the driver has some other spotter (e.g. CrewChief) to notify them about immediate threats ("car left").
 
-#### 1. You should **clearly** see 5 seconds ahead of the *spotted car* at all times.
+#### 1. You should **clearly** be able to see 5 seconds ahead of the *spotted car* at all times.
 
 I hope this one is obvious. If not, please see exhibit A: The BMW is coming down the mountain: ![](img/motivating_example.png)
 
 Seeing *5 seconds ahead* means that we have to leave our current shot *at least* 5 seconds before the spotted car would leave the shot. A combination of many cameras, and some long shots is used to accomplish this. AdvSpot is made up of 24 different cameras (shots): for a 2:06 lap, you spend 5.25 seconds at each camera.
 
-#### 2. You should see the *spotted car* at all times.
+#### 2. You should be able to see the *spotted car* at all times.
 
 It's boring to spectate a race and not watch the car you're cheering for. Always having your car in frame also means that you can perform traditional spotting in a pinch ("car left"), or give guidance on track rejoins, etc.
 
@@ -37,13 +37,15 @@ Static cameras don't move, so you're less likely to become confused about which 
 
 Unfortunately, trees, walls, bridges, and long straightaways make achieving this goal difficult; I cheated and used a few chase cams on straightaways.
 
-#### 4. Your view should be such that your left is the driver's left.
+#### 4. Your left should be the driver's left.
 
-When I'm looking *backwards* and need to tell the driver about something on *their left*, it takes my brain a split-second too long to flip my right to their left. This means that cameras are generally placed *behind* the driver, aiming down the direction of travel. Due to obscured sight-lines at Mount Panorama this isn't always possible, so there are a few backwards shots.
+When I'm looking *backwards* and need to tell the driver about something on *their left*, it takes my brain a split-second too long to flip my right to their left. This means that I attempted to place cameras *behind* the driver, aiming down the direction of travel. Due to obscured sight-lines at Mount Panorama this isn't always possible, so there are a few backwards shots.
 
 ### Directions
 
-Put the downloaded .cam file in your `Documents\iRacing\cameras\tracks\bathurst` directory. When in the sim, bring up the camera controls (Ctrl + F12), and on the `group` tab, `load track`, and select the `bathurst_advspot_v2.cam` file. `AdvSpot` should now show up in your list of cameras in the replay controls:
+*(I've never shared a camera file before, so I probably don't have this 100% right — let me know if it doesn't work for you.)*
+
+Put the downloaded [.cam file](bathurst_advspot_v2.cam) in your `Documents\iRacing\cameras\tracks\bathurst` directory. When in the sim, bring up the camera controls (Ctrl + F12), and on the `group` tab, `load track`, and select the `bathurst_advspot_v2.cam` file. `AdvSpot` should now show up in your list of cameras in the replay controls:
 
 ![](img/available_cams.png)
 
