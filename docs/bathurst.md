@@ -40,3 +40,15 @@ So that if you do have to make a spotting call, you don't have to take the split
 Put the downloaded .cam file in your `Documents\iRacing\cameras\tracks\bathurst` directory. When in the sim, bring up the camera controls (Ctrl + F12), and on the `group` tab, `load track`. `AdvSpot` should now show up in your list of cameras in the replay controls:
 
 ![](img/available_cams.png)
+
+**Note these buttons on the group editor control:** ![](img/group_editor.png)
+
+The circled buttons can be used to move the camera group up or down in the list of cameras. **A camera's position is its number.** Also note that you cannot change the position (or number) of the first 9 cameras. A camera's number is used in the shortcut controls:
+
+`*[car number]*[camera number]<enter>`: Focus specified camera on specified car.\
+`*[car number]<enter>`: Focus current camera on specified car.\
+`**[camera number]`: Switch to specified camera, keeping focus on current car.
+
+I bump `AdvSpot` up to position 10 (`**10`), and also move the chase cams up to positions 11-13, so I can quickly flip to them.
+
+I'm also using [Joel Race Timing](http://joel-real-timing.com/).
