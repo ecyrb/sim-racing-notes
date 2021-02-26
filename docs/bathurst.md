@@ -13,40 +13,30 @@ I applied the following philosophy to create this group:
 
 I was not able to always apply these rules, but I did apply them in the above priority.
 
-#### 1. You should *clearly see* 5 seconds ahead of the *spotted car* at all times.
+Another assumption I made is that the driver has some other spotter (e.g. CrewChief) to notify them about immediate threats ("car left").
 
-I hope this one is obvious.
+### 1. You should **clearly** see 5 seconds ahead of the *spotted car* at all times.
+
+I hope this one is obvious. If not, please see exhibit A: The case of the BMW coming down the mountain: ![](img/motivating_example.png)
+
+This means that you "jump" to the next shot *at least* 5 seconds before the spotted car would leave the frame. Combined with #2, this means that you need more shots than you would, if you could follow a car to the end of the in-frame track segment.
 
 ### 2. You should see the *spotted car* at all times.
 
+Because it's boring to spectate a race and not watch the car you're cheering for. Also, you can perform traditional spotting ("car left") in a pinch, or give guidance on rejoiring the track.
 
+### 3. Static shots of the track are preferred.
 
+Static cameras don't move, so you're less likely to become confused about which direction your facing, or having your view become obscured.
 
-The cameras was created on a widescreen monitor (3440 x 1440), so it may not work for you. Feel free to adjust to your heart's content.
+Unfortunately, trees, walls, bridges, and long straightaways make this difficult to do in practice. I cheated, and used a few chase cams on straightaways.
 
+### 4. Your view should be such that your left is the driver's left.
 
-A motivating example:
-
-![](img/motivating_example.png)
-
-The #16 BMW (top-left) is coming down the mountain.
-
-The #8 Ferrari (foreground right) is not.
-
-Cockpit view from the #16: ![](img/cockpit_view.png){:height="50px"}
-
-Chopper view: ![](img/chopper_view.png)
-
+So that if you do have to make a spotting call, you don't have to take the split-second to figure out which side a car is on.
 
 ### Directions
 
-Put the downloaded .cam file in your `Documents\iRacing\cameras\tracks\bathurst` directory. Load
-
-### Notes on camera use in iRacing
-
-
-![](img/large_capture_test.png)
-
-![](img/replay_controls.png)
+Put the downloaded .cam file in your `Documents\iRacing\cameras\tracks\bathurst` directory. When in the sim, bring up the camera controls (Ctrl + F12), and on the `group` tab, `load track`. `AdvSpot` should now show up in your list of cameras in the replay controls:
 
 ![](img/available_cams.png)
