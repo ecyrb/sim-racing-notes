@@ -36,7 +36,7 @@ It's boring to spectate a race and not watch the car you're cheering for. Always
 Static cameras don't move, so you're less likely to become confused about which direction you're facing. And you can set the camera up so that your view isn't obscured. See also exhibit Y: The chopper view of the BMW coming down the mountain:\
 ![](img/chopper_view.png)
 
-Unfortunately, trees, walls, bridges, and long straightaways make achieving this goal difficult; I cheated and used a few chase cams on straightaways.
+Unfortunately, trees, walls, bridges, and long straightaways make achieving the goal of 100% static track shots difficult to achieve; I cheated and used a few chase cams on straightaways.
 
 #### 4. Your left should be the driver's left.
 
