@@ -1,11 +1,6 @@
 ---
+title: null
 ---
-
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-}
 
 # Camera Domn the Mountain
 
